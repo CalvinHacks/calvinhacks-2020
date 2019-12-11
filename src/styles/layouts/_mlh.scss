@@ -1,0 +1,20 @@
+@import '../variables';
+
+#mlh-trust-badge {
+  display:block;
+  max-width:100px;
+  mn-width:60px;
+  position:absolute;
+  right:100px;
+  top:0;
+  width:10%;
+  z-index:10000;
+  a {
+    width:100%
+  }
+
+  // for navbar
+  // @media screen and (max-width: $break-large) {
+  //   display: none;
+  // }
+}

@@ -1,0 +1,28 @@
+@import '../variables';
+
+#footer {
+  .footer-container {
+    .link-container {
+      display: flex;
+      flex-direction: row;
+
+      @media screen and (max-width: $break-large) {
+        flex-direction: column-reverse;
+      }
+      #policies {
+
+      }
+
+      #connect {
+        a {
+          margin: 1rem;
+        }
+
+      }
+    }
+
+    #copyright {
+
+    }
+  }
+}

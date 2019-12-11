@@ -1,0 +1,23 @@
+@import '../variables';
+
+#sponsors {
+  .sponsors-container {
+    .sponsors-title {
+
+    }
+
+    .sponsors-content {
+      img {
+        filter: black; /* IE5+ */
+        -webkit-filter: grayscale(1); /* Webkit Nightlies & Chrome Canary */
+        -webkit-transition: all .3s ease-in-out;
+      }
+
+      img:hover {
+        filter: none;
+        -webkit-filter: grayscale(0);
+        -webkit-transform: scale(1.01);
+      }
+    }
+  }
+}

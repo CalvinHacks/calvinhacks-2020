@@ -1,0 +1,37 @@
+@import '../variables';
+
+#schedule {
+  .schedule-container {
+    .schedule-title {
+      .schedule-rect {
+        position: absolute;
+        transform: translate(25px,100px);
+        // -ms-transform: translate(75px,100px); /* IE 9 */
+        // -webkit-transform: translate(75px,100px); /* Safari and Chrome */
+        // -o-transform: translate(75px,100px); /* Opera */
+        // -moz-transform: translate(75px,100px); /* Firefox */
+        position: absolute;
+        fill: #F14629;
+        fill-opacity: 1;
+        z-index: -100;
+      }
+
+      .schedule-rect-dashed {
+        position: absolute;
+        transform: translate(-10px,70px);
+        // -ms-transform: translate(30px,70px); /* IE 9 */
+        // -webkit-transform: translate(30px,70px); /* Safari and Chrome */
+        // -o-transform: translate(30px,70px); /* Opera */
+        // -moz-transform: translate(30px,70px); /* Firefox */
+        stroke: #323639;
+        stroke-width: 1.5;
+        stroke-dasharray: 7 10;
+        fill: none;
+
+      }
+    }
+    .schedule-content {
+
+    }
+  }
+}

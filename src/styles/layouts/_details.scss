@@ -1,0 +1,48 @@
+@import '../variables';
+
+#details {
+  background: #EFCC09;
+  .w-container {
+    display: flex;
+    flex-direction: row;
+    @media screen and (max-width: $break-large) {
+      flex-direction: column-reverse;
+      justify-content: center;
+      align-items: center;
+    }
+    .svg-container {
+      // width: 500;
+      // height: 600;
+      width: 100%;
+      @media screen and (max-width: $break-large) {
+        width: 80%;
+      }
+      svg {
+        overflow: hidden;
+        max-width: 100%;
+        width: 100%;
+        @media screen and (max-width: $break-large) {
+          width: 100%;
+        }
+      }
+    }
+
+    .details-container {
+      // width: 50%;
+      width: 100%;
+      text-align: center;
+      justify-content: center;
+      align-items: center;
+      @media screen and (max-width: $break-large) {
+        width: 80%;
+      }
+      .details-title {
+
+      }
+
+      .details-content {
+        margin: 0;
+      }
+    }
+  }
+}

@@ -1,0 +1,121 @@
+@import '../variables';
+
+#header {
+  nav {
+    font-family: $title-font;
+    font-weight: $subtitle-font-weight;
+    position: absolute;
+    display: flex;
+    width: 100%;
+    flex-direction: row;
+    // align-items: center;
+    // justify-content: space-between;
+    // flex-wrap: wrap;
+    background: transparent;
+    padding: 1.5rem;
+    @media screen and (max-width: 1200px) {
+      flex-direction: column;
+    }
+    .top-parts {
+      width: auto;
+      display: flex;
+      flex-direction: row;
+      padding-right: 1rem;
+
+      @media screen and (max-width: 1200px) {
+        width: 100%;
+      }
+
+      // .logo {
+      //   position: fixed;
+      //   margin-top: 1rem;
+      //   margin-right: 1rem;
+      //   margin-left: 1rem;
+      //   z-index: 10;
+      // }
+
+      .menu-icon {
+        color: #fff;
+        display: none;
+        z-index: 10;
+
+        @media screen and (max-width: 1200px) {
+          display: block;
+          width: 100%;
+          text-align: right;
+          cursor: pointer;
+
+          margin-top: 1rem;
+          margin-right: 1rem;
+          // margin-left: 1rem;
+        }
+      }
+    }
+
+    .menu-content {
+      display: flex;
+      flex-direction: row;
+      flex-grow: 1;
+      width: 100%;
+      // transition: 0.2s;
+
+      @media screen and (max-width: $break-large) {
+        display: none;
+        flex-direction: column;
+        justify-content: space-between;
+        align-items: center;
+        height: 100vh;
+        width: 100vw;
+        background-color: $first-color;
+        z-index: 2;
+      }
+
+      .menu-item {
+        color: #fff;
+        margin-top: 1rem;
+        margin-right: 1rem;
+
+        &:hover {
+          color: gray;
+        }
+
+        @media screen and (max-width: $break-large) {
+          display: inline-block;
+          margin-top: 0.5rem;
+          margin-bottom: 0.5rem;
+        }
+      }
+
+      .menu-link-item {
+        display: inline-block;
+        font-size: .875rem;
+        padding-left: 1rem;
+        padding-right: 1rem;
+        padding-top: 0.5rem;
+        padding-bottom: 0.5rem;
+        border-width: 1px;
+        border-color: #fff;
+        border-radius: .25rem;
+        line-height: 1;
+        color: #fff;
+        margin-top: 1rem;
+        margin-right: 1rem;
+        &:hover {
+          border-color: transparent;
+          color: #000;
+          background-color: #fff;
+        }
+        @media screen and (max-width: $break-large) {
+          margin-top: 0.5rem;
+          margin-bottom: 0.5rem;
+          display: inline-block;
+        }
+      }
+    }
+
+    .active-flex {
+      display: flex;
+    }
+
+  }
+}

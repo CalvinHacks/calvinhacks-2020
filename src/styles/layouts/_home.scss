@@ -1,0 +1,12 @@
+@import '../variables';
+
+#home {
+  background: #891A2F;
+  svg {
+    max-width: 100%;
+    width: 100%;
+    @media screen and (max-width: $break-large) {
+      width: 100%;
+    }
+  }
+}
