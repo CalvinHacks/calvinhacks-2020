@@ -1,8 +1,19 @@
 // Images
+// import './images/atomic-object.png'
+// import './images/TEKTON.png'
+// import './images/profile.jpg'
+
 import './images/atomic-object.png'
 import './images/TEKTON.png'
 import './images/profile.jpg'
-
+import './images/steelcase.svg'
+import './images/pec-tech.png'
+import './images/spindance.jpg'
+import './images/brooksource.svg'
+import './images/blujay-solutions.jpg'
+import './images/calvin.svg'
+import './images/stickermule.svg'
+	 
 // SVG
 import './images/redbull.svg'
 import './images/webpack-logo.svg'
