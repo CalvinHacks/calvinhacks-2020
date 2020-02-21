@@ -9,6 +9,7 @@ navBarToggle.addEventListener('click', function () {
 
 
 
+
 // navBarToggle.addEventListener('click', function () {
 //   if (mainNav.style.display == "flex") {
 //     mainNav.style.display = "none"

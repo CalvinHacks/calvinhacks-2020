@@ -13,9 +13,10 @@ import './images/brooksource.svg'
 import './images/blujay-solutions.jpg'
 import './images/calvin.svg'
 import './images/stickermule.svg'
-	 
+
 // SVG
 import './images/redbull.svg'
+import './images/front.svg'
 import './images/webpack-logo.svg'
 import './images/logo.svg'
 

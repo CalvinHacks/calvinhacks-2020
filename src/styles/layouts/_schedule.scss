@@ -5,8 +5,8 @@
   .w-schedule-container {
     overflow: hidden;
     display:flex;
-    margin-left: auto;
-    margin-right: auto;
+    // margin-left: auto;
+    // margin-right: auto;
     padding-top: 10rem;
     padding-bottom: 10rem;
     // max-width: 72rem;
@@ -17,9 +17,23 @@
     // }
   }
   .schedule-container {
-    // .svg-container {
-    //   width: 100%;
-    // }
+    .svg-container {
+      width: 100%;
+      .small-image {
+	display: none;
+	width: 100%;
+	@media screen and (max-width: $media-md-width) {
+	  display: block;
+	}
+      }
+      .large-image {
+	display: block;
+	width: 100%;
+	@media screen and (max-width: $media-md-width) {
+	  display: none;
+	}
+      }
+    }
 
     .background-rect-one {
       position: absolute;
