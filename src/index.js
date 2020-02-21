@@ -20,6 +20,9 @@ import './images/front.svg'
 import './images/webpack-logo.svg'
 import './images/logo.svg'
 
+import './images/schedule-large.svg'
+import './images/schedule-small.svg'
+
 // Favicon
 import './images/favicon/favicon.ico'
 import './images/favicon/apple-touch-icon.png'
