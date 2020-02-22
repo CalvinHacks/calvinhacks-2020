@@ -5,15 +5,38 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
    id="svg2"
    xml:space="preserve"
    width="1648.5067"
    height="7762.2534"
-   viewBox="0 0 1648.5067 7762.2534"><metadata
+   viewBox="0 0 1648.5067 7762.2534"
+   sodipodi:docname="schedule-large.svg"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14"><sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="2560"
+     inkscape:window-height="1402"
+     id="namedview1454"
+     showgrid="false"
+     inkscape:zoom="0.48645668"
+     inkscape:cx="368.59918"
+     inkscape:cy="4360.7654"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" /><metadata
      id="metadata8"><rdf:RDF><cc:Work
          rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><defs
      id="defs6"><linearGradient
    x1="0"
    y1="0"
@@ -4406,946 +4429,1100 @@
      transform="matrix(0.78156345,0,0,0.78156345,1410.0564,2011.9351)"
      id="g7161"><g
        id="g7964"><g
-         transform="translate(-909.40272,3641.9981)"
-         id="g5984-8-2-1-5"><text
-           xml:space="preserve"
-           style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-           x="405.44492"
-           y="488.29584"
-           id="text5899-5-4-6-5-98"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Bold'"
-             id="tspan5897-3-5-1-9-4"
-             x="405.44492"
-             y="488.29584">HOW TO PITCH YOUR PROJECT:</tspan></text>
+   transform="translate(-909.40272,3641.9981)"
+   id="g5984-8-2-1-5"><text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+   x="405.44492"
+   y="488.29584"
+   id="text5899-5-4-6-5-98"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Bold'"
+     id="tspan5897-3-5-1-9-4"
+     x="405.44492"
+     y="488.29584">HOW TO PITCH YOUR PROJECT:</tspan></text>
+
+
 <text
-           xml:space="preserve"
-           style="font-style:normal;font-weight:normal;font-size:40.89192963px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.02229822"
-           x="1007.7717"
-           y="487.75815"
-           id="text5899-3-5-0-0-7-8"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Didact Gothic';-inkscape-font-specification:'Didact Gothic';stroke-width:1.02229822"
-             id="tspan5897-6-6-3-6-7-1"
-             x="1007.7717"
-             y="487.75815">2:30 PM</tspan></text>
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:40.89192963px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.02229822"
+   x="1007.7717"
+   y="487.75815"
+   id="text5899-3-5-0-0-7-8"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Didact Gothic';-inkscape-font-specification:'Didact Gothic';stroke-width:1.02229822"
+     id="tspan5897-6-6-3-6-7-1"
+     x="1007.7717"
+     y="487.75815">2:30 PM</tspan></text>
+
+
 </g><text
-         id="text5899-5-9-1-5-7-3"
-         y="4187.1655"
-         x="-503.95779"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-         xml:space="preserve"><tspan
-           y="4187.1655"
-           x="-503.95779"
-           id="tspan5897-3-3-0-9-3-0"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Bold'">LOCATION:</tspan></text>
+   id="text5899-5-9-1-5-7-3"
+   y="4187.1655"
+   x="-503.95779"
+   style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+   xml:space="preserve"><tspan
+     y="4187.1655"
+     x="-503.95779"
+     id="tspan5897-3-3-0-9-3-0"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Bold'">LOCATION:</tspan></text>
+
+
 <text
-         id="text5899-3-5-6-6-4-6-4"
-         y="4186.6279"
-         x="-282.94217"
-         style="font-style:normal;font-weight:normal;font-size:40.89192963px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.02229822"
-         xml:space="preserve"><tspan
-           y="4186.6279"
-           x="-282.94217"
-           id="tspan5897-6-6-0-3-9-5-4"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Didact Gothic';-inkscape-font-specification:'Didact Gothic';stroke-width:1.02229822">BYTWERK</tspan></text>
+   id="text5899-3-5-6-6-4-6-4"
+   y="4186.6279"
+   x="-282.94217"
+   style="font-style:normal;font-weight:normal;font-size:40.89192963px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.02229822"
+   xml:space="preserve"><tspan
+     y="4186.6279"
+     x="-282.94217"
+     id="tspan5897-6-6-0-3-9-5-4"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Didact Gothic';-inkscape-font-specification:'Didact Gothic';stroke-width:1.02229822">BYTWERK</tspan></text>
+
+
 </g></g><g
      transform="matrix(0.83148566,0,0,0.83148566,-129.85233,619.69611)"
      id="g8279"><g
        id="g8257"><text
-         id="text5899-5-4-6-5-2"
-         y="6002.7617"
-         x="1180.4215"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-         xml:space="preserve"><tspan
-           y="6002.7617"
-           x="1180.4215"
-           id="tspan5897-3-5-1-9-9"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Bold'">SUBMIT PROJECTS:</tspan></text>
+   id="text5899-5-4-6-5-2"
+   y="6002.7617"
+   x="1180.4215"
+   style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+   xml:space="preserve"><tspan
+     y="6002.7617"
+     x="1180.4215"
+     id="tspan5897-3-5-1-9-9"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Bold'">SUBMIT PROJECTS:</tspan></text>
+
+
 <text
-         id="text5899-3-5-0-0-7-6"
-         y="6002.2241"
-         x="1563.1113"
-         style="font-style:normal;font-weight:normal;font-size:40.89192963px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.02229822"
-         xml:space="preserve"><tspan
-           y="6002.2241"
-           x="1563.1113"
-           id="tspan5897-6-6-3-6-7-10"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Didact Gothic';-inkscape-font-specification:'Didact Gothic';stroke-width:1.02229822">4:00 PM</tspan></text>
+   id="text5899-3-5-0-0-7-6"
+   y="6002.2241"
+   x="1563.1113"
+   style="font-style:normal;font-weight:normal;font-size:40.89192963px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.02229822"
+   xml:space="preserve"><tspan
+     y="6002.2241"
+     x="1563.1113"
+     id="tspan5897-6-6-3-6-7-10"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Didact Gothic';-inkscape-font-specification:'Didact Gothic';stroke-width:1.02229822">4:00 PM</tspan></text>
+
+
 <text
-         id="text5899-5-9-1-5-7-2"
-         y="6059.6333"
-         x="1180.4215"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-         xml:space="preserve"><tspan
-           y="6059.6333"
-           x="1180.4215"
-           id="tspan5897-3-3-0-9-3-2"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Bold'">LOCATION:</tspan></text>
+   id="text5899-5-9-1-5-7-2"
+   y="6059.6333"
+   x="1180.4215"
+   style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+   xml:space="preserve"><tspan
+     y="6059.6333"
+     x="1180.4215"
+     id="tspan5897-3-3-0-9-3-2"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Bold'">LOCATION:</tspan></text>
+
+
 <text
-         id="text5899-3-5-6-6-4-6-20"
-         y="6059.0957"
-         x="1393.2731"
-         style="font-style:normal;font-weight:normal;font-size:40.89192963px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.02229822"
-         xml:space="preserve"><tspan
-           y="6059.0957"
-           x="1393.2731"
-           id="tspan5897-6-6-0-3-9-5-5"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Didact Gothic';-inkscape-font-specification:'Didact Gothic';stroke-width:1.02229822">EVERYWHERE</tspan></text>
+   id="text5899-3-5-6-6-4-6-20"
+   y="6059.0957"
+   x="1393.2731"
+   style="font-style:normal;font-weight:normal;font-size:40.89192963px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.02229822"
+   xml:space="preserve"><tspan
+     y="6059.0957"
+     x="1393.2731"
+     id="tspan5897-6-6-0-3-9-5-5"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Didact Gothic';-inkscape-font-specification:'Didact Gothic';stroke-width:1.02229822">EVERYWHERE</tspan></text>
+
+
 </g></g><g
      transform="matrix(0.76784224,0,0,0.76784224,1646.6526,-321.60444)"
      id="g7920"><text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       x="-745.36389"
-       y="640.72748"
-       id="text5899-5-7"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Bold'"
-         id="tspan5897-3-6"
-         x="-745.36389"
-         y="640.72748">OPENING CEREMONY:</tspan></text>
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+   x="-745.36389"
+   y="640.72748"
+   id="text5899-5-7"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Bold'"
+     id="tspan5897-3-6"
+     x="-745.36389"
+     y="640.72748">OPENING CEREMONY:</tspan></text>
+
+
 <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40.89192963px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.02229822"
-       x="-325.20435"
-       y="640.18982"
-       id="text5899-3-5-5"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Didact Gothic';-inkscape-font-specification:'Didact Gothic';stroke-width:1.02229822"
-         id="tspan5897-6-6-6"
-         x="-325.20435"
-         y="640.18982">6:00 PM</tspan></text>
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:40.89192963px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.02229822"
+   x="-325.20435"
+   y="640.18982"
+   id="text5899-3-5-5"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Didact Gothic';-inkscape-font-specification:'Didact Gothic';stroke-width:1.02229822"
+     id="tspan5897-6-6-6"
+     x="-325.20435"
+     y="640.18982">6:00 PM</tspan></text>
+
+
 <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       x="-745.36389"
-       y="697.59906"
-       id="text5899-5-9-7"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Bold'"
-         id="tspan5897-3-3-4"
-         x="-745.36389"
-         y="697.59906">LOCATION:</tspan></text>
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+   x="-745.36389"
+   y="697.59906"
+   id="text5899-5-9-7"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Bold'"
+     id="tspan5897-3-3-4"
+     x="-745.36389"
+     y="697.59906">LOCATION:</tspan></text>
+
+
 <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40.89192963px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.02229822"
-       x="-526.38733"
-       y="697.5614"
-       id="text5899-3-5-6-5"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Didact Gothic';-inkscape-font-specification:'Didact Gothic';stroke-width:1.02229822"
-         id="tspan5897-6-6-0-25"
-         x="-526.38733"
-         y="697.5614">MAIN LOBBY</tspan></text>
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:40.89192963px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.02229822"
+   x="-526.38733"
+   y="697.5614"
+   id="text5899-3-5-6-5"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Didact Gothic';-inkscape-font-specification:'Didact Gothic';stroke-width:1.02229822"
+     id="tspan5897-6-6-0-25"
+     x="-526.38733"
+     y="697.5614">MAIN LOBBY</tspan></text>
+
+
 </g><g
      transform="matrix(0.90829925,0,0,0.90829925,981.7974,58.814777)"
      id="g7932"><g
        id="g5984-4-7"
        transform="translate(-1030.3818,-174.1538)"><text
-         id="text5899-5-7-4"
-         y="488.29584"
-         x="405.44492"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-         xml:space="preserve"><tspan
-           y="488.29584"
-           x="405.44492"
-           id="tspan5897-3-6-4"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Bold'">CHECK-IN:</tspan></text>
+   id="text5899-5-7-4"
+   y="488.29584"
+   x="405.44492"
+   style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+   xml:space="preserve"><tspan
+     y="488.29584"
+     x="405.44492"
+     id="tspan5897-3-6-4"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Bold'">CHECK-IN:</tspan></text>
+
+
 <text
-         id="text5899-3-5-5-3"
-         y="487.75815"
-         x="613.42145"
-         style="font-style:normal;font-weight:normal;font-size:40.89192963px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.02229822"
-         xml:space="preserve"><tspan
-           y="487.75815"
-           x="613.42145"
-           id="tspan5897-6-6-6-0"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Didact Gothic';-inkscape-font-specification:'Didact Gothic';stroke-width:1.02229822">5:00 PM</tspan></text>
+   id="text5899-3-5-5-3"
+   y="487.75815"
+   x="613.42145"
+   style="font-style:normal;font-weight:normal;font-size:40.89192963px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.02229822"
+   xml:space="preserve"><tspan
+     y="487.75815"
+     x="613.42145"
+     id="tspan5897-6-6-6-0"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Didact Gothic';-inkscape-font-specification:'Didact Gothic';stroke-width:1.02229822">5:00 PM</tspan></text>
+
+
 </g><g
        id="g5984-0-93-7"
        transform="translate(-1030.3818,-117.28224)"><text
-         id="text5899-5-9-7-8"
-         y="488.29584"
-         x="405.44492"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-         xml:space="preserve"><tspan
-           y="488.29584"
-           x="405.44492"
-           id="tspan5897-3-3-4-6"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Bold'">LOCATION:</tspan></text>
+   id="text5899-5-9-7-8"
+   y="488.29584"
+   x="405.44492"
+   style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+   xml:space="preserve"><tspan
+     y="488.29584"
+     x="405.44492"
+     id="tspan5897-3-3-4-6"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Bold'">LOCATION:</tspan></text>
+
+
 <text
-         id="text5899-3-5-6-5-8"
-         y="487.75815"
-         x="624.73517"
-         style="font-style:normal;font-weight:normal;font-size:40.89192963px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.02229822"
-         xml:space="preserve"><tspan
-           y="487.75815"
-           x="624.73517"
-           id="tspan5897-6-6-0-25-8"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Didact Gothic';-inkscape-font-specification:'Didact Gothic';stroke-width:1.02229822">MAIN LOBBY</tspan></text>
+   id="text5899-3-5-6-5-8"
+   y="487.75815"
+   x="624.73517"
+   style="font-style:normal;font-weight:normal;font-size:40.89192963px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.02229822"
+   xml:space="preserve"><tspan
+     y="487.75815"
+     x="624.73517"
+     id="tspan5897-6-6-0-25-8"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Didact Gothic';-inkscape-font-specification:'Didact Gothic';stroke-width:1.02229822">MAIN LOBBY</tspan></text>
+
+
 </g></g><g
      transform="matrix(0.84365037,0,0,0.84365037,-823.90812,557.31947)"
      id="g7942"><g
        id="g13249"><text
-         id="text5899-5-7-0"
-         y="288.14203"
-         x="1870.5568"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-         xml:space="preserve"><tspan
-           y="288.14203"
-           x="1870.5568"
-           id="tspan5897-3-6-6"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Bold'">FORM TEAMS / HACKING STARTS:</tspan></text>
+   id="text5899-5-7-0"
+   y="288.14203"
+   x="1870.5568"
+   style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+   xml:space="preserve"><tspan
+     y="288.14203"
+     x="1870.5568"
+     id="tspan5897-3-6-6"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Bold'">FORM TEAMS / HACKING STARTS:</tspan></text>
+
+
 <text
-         id="text5899-3-5-5-8"
-         y="287.60437"
-         x="2514.5054"
-         style="font-style:normal;font-weight:normal;font-size:40.89192963px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.02229822"
-         xml:space="preserve"><tspan
-           y="287.60437"
-           x="2514.5054"
-           id="tspan5897-6-6-6-9"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Didact Gothic';-inkscape-font-specification:'Didact Gothic';stroke-width:1.02229822">6:30 PM</tspan></text>
+   id="text5899-3-5-5-8"
+   y="287.60437"
+   x="2514.5054"
+   style="font-style:normal;font-weight:normal;font-size:40.89192963px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.02229822"
+   xml:space="preserve"><tspan
+     y="287.60437"
+     x="2514.5054"
+     id="tspan5897-6-6-6-9"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Didact Gothic';-inkscape-font-specification:'Didact Gothic';stroke-width:1.02229822">6:30 PM</tspan></text>
+
+
 <text
-         id="text5899-5-9-7-2"
-         y="345.01361"
-         x="1870.5569"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-         xml:space="preserve"><tspan
-           y="345.01361"
-           x="1870.5569"
-           id="tspan5897-3-3-4-66"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Bold'">LOCATION:</tspan></text>
+   id="text5899-5-9-7-2"
+   y="345.01361"
+   x="1870.5569"
+   style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+   xml:space="preserve"><tspan
+     y="345.01361"
+     x="1870.5569"
+     id="tspan5897-3-3-4-66"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Bold'">LOCATION:</tspan></text>
+
+
 <text
-         id="text5899-3-5-6-5-4"
-         y="344.47595"
-         x="2089.5334"
-         style="font-style:normal;font-weight:normal;font-size:40.89192963px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.02229822"
-         xml:space="preserve"><tspan
-           y="344.47595"
-           x="2089.5334"
-           id="tspan5897-6-6-0-25-9"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Didact Gothic';-inkscape-font-specification:'Didact Gothic';stroke-width:1.02229822">150</tspan></text>
+   id="text5899-3-5-6-5-4"
+   y="344.47595"
+   x="2089.5334"
+   style="font-style:normal;font-weight:normal;font-size:40.89192963px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.02229822"
+   xml:space="preserve"><tspan
+     y="344.47595"
+     x="2089.5334"
+     id="tspan5897-6-6-0-25-9"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Didact Gothic';-inkscape-font-specification:'Didact Gothic';stroke-width:1.02229822">150</tspan></text>
+
+
 </g></g><g
      transform="matrix(0.89084314,0,0,0.89084314,-1536.6665,696.61307)"
      id="g7953"><g
        id="g6749"><text
-         id="text5899-5-7-0-5"
-         y="490.39801"
-         x="2066.9971"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-         xml:space="preserve"><tspan
-           y="490.39801"
-           x="2066.9971"
-           id="tspan5897-3-6-6-0"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Bold'">BEGINNER'S  WORKSHOP:</tspan></text>
+   id="text5899-5-7-0-5"
+   y="490.39801"
+   x="2066.9971"
+   style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+   xml:space="preserve"><tspan
+     y="490.39801"
+     x="2066.9971"
+     id="tspan5897-3-6-6-0"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Bold'">BEGINNER'S  WORKSHOP:</tspan></text>
+
+
 <text
-         id="text5899-3-5-5-8-4"
-         y="489.86035"
-         x="2554.2642"
-         style="font-style:normal;font-weight:normal;font-size:40.89192963px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.02229822"
-         xml:space="preserve"><tspan
-           y="489.86035"
-           x="2554.2642"
-           id="tspan5897-6-6-6-9-8"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Didact Gothic';-inkscape-font-specification:'Didact Gothic';stroke-width:1.02229822">7:00 PM</tspan></text>
+   id="text5899-3-5-5-8-4"
+   y="489.86035"
+   x="2554.2642"
+   style="font-style:normal;font-weight:normal;font-size:40.89192963px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.02229822"
+   xml:space="preserve"><tspan
+     y="489.86035"
+     x="2554.2642"
+     id="tspan5897-6-6-6-9-8"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Didact Gothic';-inkscape-font-specification:'Didact Gothic';stroke-width:1.02229822">7:00 PM</tspan></text>
+
+
 <text
-         id="text5899-5-9-7-2-7"
-         y="547.26959"
-         x="2066.9973"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-         xml:space="preserve"><tspan
-           y="547.26959"
-           x="2066.9973"
-           id="tspan5897-3-3-4-66-1"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Bold'">LOCATION:</tspan></text>
+   id="text5899-5-9-7-2-7"
+   y="547.26959"
+   x="2066.9973"
+   style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+   xml:space="preserve"><tspan
+     y="547.26959"
+     x="2066.9973"
+     id="tspan5897-3-3-4-66-1"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Bold'">LOCATION:</tspan></text>
+
+
 <text
-         id="text5899-3-5-6-5-4-7"
-         y="546.73193"
-         x="2285.9739"
-         style="font-style:normal;font-weight:normal;font-size:40.89192963px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.02229822"
-         xml:space="preserve"><tspan
-           y="546.73193"
-           x="2285.9739"
-           id="tspan5897-6-6-0-25-9-2"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Didact Gothic';-inkscape-font-specification:'Didact Gothic';stroke-width:1.02229822">150</tspan></text>
+   id="text5899-3-5-6-5-4-7"
+   y="546.73193"
+   x="2285.9739"
+   style="font-style:normal;font-weight:normal;font-size:40.89192963px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.02229822"
+   xml:space="preserve"><tspan
+     y="546.73193"
+     x="2285.9739"
+     id="tspan5897-6-6-0-25-9-2"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Didact Gothic';-inkscape-font-specification:'Didact Gothic';stroke-width:1.02229822">150</tspan></text>
+
+
 </g></g><g
      transform="matrix(0.90829925,0,0,0.90829925,373.2427,1141.215)"
      id="g5984-0-7-2-0"><g
        id="g7189"><g
-         transform="translate(-10.89848,-64.32263)"
-         id="g6103-7-2"><g
-           transform="translate(10.901898,-49.421935)"
-           id="g5984-8-2"><text
-             xml:space="preserve"
-             style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-             x="405.44492"
-             y="488.29584"
-             id="text5899-5-4-6"><tspan
-               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Bold'"
-               id="tspan5897-3-5-1"
-               x="405.44492"
-               y="488.29584">RASPBERRY PI AND IOT:</tspan></text>
+   transform="translate(-10.89848,-64.32263)"
+   id="g6103-7-2"><g
+     transform="translate(10.901898,-49.421935)"
+     id="g5984-8-2"><text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+   x="405.44492"
+   y="488.29584"
+   id="text5899-5-4-6"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Bold'"
+     id="tspan5897-3-5-1"
+     x="405.44492"
+     y="488.29584">RASPBERRY PI AND IOT:</tspan></text>
+
+
 <text
-             xml:space="preserve"
-             style="font-style:normal;font-weight:normal;font-size:40.89192963px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.02229822"
-             x="863.52197"
-             y="487.75815"
-             id="text5899-3-5-0-0"><tspan
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Didact Gothic';-inkscape-font-specification:'Didact Gothic';stroke-width:1.02229822"
-               id="tspan5897-6-6-3-6"
-               x="863.52197"
-               y="487.75815">7:00 PM</tspan></text>
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:40.89192963px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.02229822"
+   x="863.52197"
+   y="487.75815"
+   id="text5899-3-5-0-0"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Didact Gothic';-inkscape-font-specification:'Didact Gothic';stroke-width:1.02229822"
+     id="tspan5897-6-6-3-6"
+     x="863.52197"
+     y="487.75815">7:00 PM</tspan></text>
+
+
 </g><g
-           transform="translate(10.90192,7.4496339)"
-           id="g5984-0-6-1"><text
-             xml:space="preserve"
-             style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-             x="405.44492"
-             y="488.29584"
-             id="text5899-5-9-1-5"><tspan
-               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Bold'"
-               id="tspan5897-3-3-0-9"
-               x="405.44492"
-               y="488.29584">LEADING:</tspan></text>
+     transform="translate(10.90192,7.4496339)"
+     id="g5984-0-6-1"><text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+   x="405.44492"
+   y="488.29584"
+   id="text5899-5-9-1-5"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Bold'"
+     id="tspan5897-3-3-0-9"
+     x="405.44492"
+     y="488.29584">LEADING:</tspan></text>
+
+
 <text
-             xml:space="preserve"
-             style="font-style:normal;font-weight:normal;font-size:40.89192963px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.02229822"
-             x="596.42145"
-             y="487.75815"
-             id="text5899-3-5-6-6-4"><tspan
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Didact Gothic';-inkscape-font-specification:'Didact Gothic';stroke-width:1.02229822"
-               id="tspan5897-6-6-0-3-9"
-               x="596.42145"
-               y="487.75815">PROF. SCHUURMAN</tspan></text>
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:40.89192963px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.02229822"
+   x="596.42145"
+   y="487.75815"
+   id="text5899-3-5-6-6-4"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Didact Gothic';-inkscape-font-specification:'Didact Gothic';stroke-width:1.02229822"
+     id="tspan5897-6-6-0-3-9"
+     x="596.42145"
+     y="487.75815">PROF. SCHUURMAN</tspan></text>
+
+
 </g></g><text
-         id="text5899-5-9-5-0-9"
-         y="488.29584"
-         x="405.44492"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-         xml:space="preserve"><tspan
-           y="488.29584"
-           x="405.44492"
-           id="tspan5897-3-3-9-6-1"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Bold'">LOCATION:</tspan></text>
+   id="text5899-5-9-5-0-9"
+   y="488.29584"
+   x="405.44492"
+   style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+   xml:space="preserve"><tspan
+     y="488.29584"
+     x="405.44492"
+     id="tspan5897-3-3-9-6-1"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Bold'">LOCATION:</tspan></text>
+
+
 <text
-         id="text5899-3-5-6-2-1-7"
-         y="487.75815"
-         x="619.77325"
-         style="font-style:normal;font-weight:normal;font-size:40.89192963px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.02229822"
-         xml:space="preserve"><tspan
-           y="487.75815"
-           x="619.77325"
-           id="tspan5897-6-6-0-2-5-7"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Didact Gothic';-inkscape-font-specification:'Didact Gothic';stroke-width:1.02229822">BYTWERK</tspan></text>
+   id="text5899-3-5-6-2-1-7"
+   y="487.75815"
+   x="619.77325"
+   style="font-style:normal;font-weight:normal;font-size:40.89192963px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.02229822"
+   xml:space="preserve"><tspan
+     y="487.75815"
+     x="619.77325"
+     id="tspan5897-6-6-0-2-5-7"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Didact Gothic';-inkscape-font-specification:'Didact Gothic';stroke-width:1.02229822">BYTWERK</tspan></text>
+
+
 </g></g><g
      id="g7497-7"
      transform="matrix(0.90829925,0,0,0.90829925,-1693.0774,169.19295)"><g
        id="g8268"><g
          id="g7546"><text
-           id="text5899-5-4-6-9-7"
-           y="1723.4401"
-           x="1897.9823"
-           style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-           xml:space="preserve"><tspan
-             y="1723.4401"
-             x="1897.9823"
-             id="tspan5897-3-5-1-6-6"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Bold'">GAME DEV WORKSHOP:</tspan></text>
+   id="text5899-5-4-6-9-7"
+   y="1723.4401"
+   x="1897.9823"
+   style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+   xml:space="preserve"><tspan
+     y="1723.4401"
+     x="1897.9823"
+     id="tspan5897-3-5-1-6-6"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Bold'">GAME DEV WORKSHOP:</tspan></text>
+
+
 <text
-           id="text5899-3-5-0-0-4-4"
-           y="1722.9023"
-           x="2346.7163"
-           style="font-style:normal;font-weight:normal;font-size:40.89192963px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.02229822"
-           xml:space="preserve"><tspan
-             y="1722.9023"
-             x="2346.7163"
-             id="tspan5897-6-6-3-6-3-3"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Didact Gothic';-inkscape-font-specification:'Didact Gothic';stroke-width:1.02229822">9:30 PM</tspan></text>
+   id="text5899-3-5-0-0-4-4"
+   y="1722.9023"
+   x="2346.7163"
+   style="font-style:normal;font-weight:normal;font-size:40.89192963px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.02229822"
+   xml:space="preserve"><tspan
+     y="1722.9023"
+     x="2346.7163"
+     id="tspan5897-6-6-3-6-3-3"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Didact Gothic';-inkscape-font-specification:'Didact Gothic';stroke-width:1.02229822">9:30 PM</tspan></text>
+
+
 <text
-           id="text5899-5-9-1-5-3-0"
-           y="1780.3116"
-           x="2215.1108"
-           style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-           xml:space="preserve"><tspan
-             y="1780.3116"
-             x="2215.1108"
-             id="tspan5897-3-3-0-9-8-3"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Bold'">LOCATION:</tspan></text>
+   id="text5899-5-9-1-5-3-0"
+   y="1780.3116"
+   x="2215.1108"
+   style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+   xml:space="preserve"><tspan
+     y="1780.3116"
+     x="2215.1108"
+     id="tspan5897-3-3-0-9-8-3"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Bold'">LOCATION:</tspan></text>
+
+
 <text
-           id="text5899-3-5-6-6-4-60-0"
-           y="1779.7739"
-           x="2433.0874"
-           style="font-style:normal;font-weight:normal;font-size:40.89192963px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.02229822"
-           xml:space="preserve"><tspan
-             y="1779.7739"
-             x="2433.0874"
-             id="tspan5897-6-6-0-3-9-4-9"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Didact Gothic';-inkscape-font-specification:'Didact Gothic';stroke-width:1.02229822">150</tspan></text>
+   id="text5899-3-5-6-6-4-60-0"
+   y="1779.7739"
+   x="2433.0874"
+   style="font-style:normal;font-weight:normal;font-size:40.89192963px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.02229822"
+   xml:space="preserve"><tspan
+     y="1779.7739"
+     x="2433.0874"
+     id="tspan5897-6-6-0-3-9-4-9"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Didact Gothic';-inkscape-font-specification:'Didact Gothic';stroke-width:1.02229822">150</tspan></text>
+
+
 </g></g></g><g
      id="g7497-7-3"
      transform="matrix(0.90829925,0,0,0.90829925,-906.58721,229.97663)"><g
        id="g8268-3"><g
          id="g7546-3"><g
            id="g9707"><text
-             xml:space="preserve"
-             style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-             x="2189.3098"
-             y="1723.4401"
-             id="text5899-5-4-6-9-7-8"><tspan
-               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Bold'"
-               id="tspan5897-3-5-1-6-6-0"
-               x="2189.3098"
-               y="1723.4401">DINNER</tspan></text>
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+   x="2189.3098"
+   y="1723.4401"
+   id="text5899-5-4-6-9-7-8"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Bold'"
+     id="tspan5897-3-5-1-6-6-0"
+     x="2189.3098"
+     y="1723.4401">DINNER</tspan></text>
+
+
 <text
-             xml:space="preserve"
-             style="font-style:normal;font-weight:normal;font-size:40.89192963px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.02229822"
-             x="2346.7163"
-             y="1722.9023"
-             id="text5899-3-5-0-0-4-4-4"><tspan
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Didact Gothic';-inkscape-font-specification:'Didact Gothic';stroke-width:1.02229822"
-               id="tspan5897-6-6-3-6-3-3-7"
-               x="2346.7163"
-               y="1722.9023">8:30 PM</tspan></text>
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:40.89192963px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.02229822"
+   x="2346.7163"
+   y="1722.9023"
+   id="text5899-3-5-0-0-4-4-4"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Didact Gothic';-inkscape-font-specification:'Didact Gothic';stroke-width:1.02229822"
+     id="tspan5897-6-6-3-6-3-3-7"
+     x="2346.7163"
+     y="1722.9023">8:30 PM</tspan></text>
+
+
 <text
-             xml:space="preserve"
-             style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-             x="2047.856"
-             y="1780.3116"
-             id="text5899-5-9-1-5-3-0-6"><tspan
-               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Bold'"
-               id="tspan5897-3-3-0-9-8-3-8"
-               x="2047.856"
-               y="1780.3116">LOCATION:</tspan></text>
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+   x="2047.856"
+   y="1780.3116"
+   id="text5899-5-9-1-5-3-0-6"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Bold'"
+     id="tspan5897-3-3-0-9-8-3-8"
+     x="2047.856"
+     y="1780.3116">LOCATION:</tspan></text>
+
+
 <text
-             xml:space="preserve"
-             style="font-style:normal;font-weight:normal;font-size:40.89192963px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.02229822"
-             x="2265.8325"
-             y="1779.7739"
-             id="text5899-3-5-6-6-4-60-0-9"><tspan
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Didact Gothic';-inkscape-font-specification:'Didact Gothic';stroke-width:1.02229822"
-               id="tspan5897-6-6-0-3-9-4-9-0"
-               x="2265.8325"
-               y="1779.7739">MAIN LOBBY</tspan></text>
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:40.89192963px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.02229822"
+   x="2265.8325"
+   y="1779.7739"
+   id="text5899-3-5-6-6-4-60-0-9"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Didact Gothic';-inkscape-font-specification:'Didact Gothic';stroke-width:1.02229822"
+     id="tspan5897-6-6-0-3-9-4-9-0"
+     x="2265.8325"
+     y="1779.7739">MAIN LOBBY</tspan></text>
+
+
 </g></g></g></g><g
      transform="matrix(0.84029024,0,0,0.84029024,333.54946,1205.3685)"
      id="g7900"><g
        id="g7910"><g
          transform="translate(1235.8614,-1226.1302)"
          id="g10539"><text
-           xml:space="preserve"
-           style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
-           x="-626.6795"
-           y="3319.4468"
-           id="text5899-5-7-0-5-8-3"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#ffffff;stroke-width:1"
-             id="tspan5897-3-6-6-0-5-3"
-             x="-626.6795"
-             y="3319.4468">PAPER AIRPLANES</tspan></text>
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+   x="-626.6795"
+   y="3319.4468"
+   id="text5899-5-7-0-5-8-3"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#ffffff;stroke-width:1"
+     id="tspan5897-3-6-6-0-5-3"
+     x="-626.6795"
+     y="3319.4468">PAPER AIRPLANES</tspan></text>
+
+
 <text
-           xml:space="preserve"
-           style="font-style:normal;font-weight:normal;font-size:40.89192963px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.02229822"
-           x="-252.59384"
-           y="3318.9089"
-           id="text5899-3-5-5-8-4-0-8"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Didact Gothic';-inkscape-font-specification:'Didact Gothic';fill:#ffffff;stroke-width:1.02229822"
-             id="tspan5897-6-6-6-9-8-6-0"
-             x="-252.59384"
-             y="3318.9089">4:00 AM</tspan></text>
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:40.89192963px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.02229822"
+   x="-252.59384"
+   y="3318.9089"
+   id="text5899-3-5-5-8-4-0-8"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Didact Gothic';-inkscape-font-specification:'Didact Gothic';fill:#ffffff;stroke-width:1.02229822"
+     id="tspan5897-6-6-6-9-8-6-0"
+     x="-252.59384"
+     y="3318.9089">4:00 AM</tspan></text>
+
+
 </g></g></g><g
      transform="matrix(0.90829925,0,0,0.90829925,646.58199,-805.38956)"
      id="g7080-4"><text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       x="-646.79327"
-       y="3643.8044"
-       id="text5899-5-4-6-5-8"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#ffffff"
-         id="tspan5897-3-5-1-9-1"
-         x="-646.79327"
-         y="3643.8044">MIDNIGHT SNACK:</tspan></text>
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+   x="-646.79327"
+   y="3643.8044"
+   id="text5899-5-4-6-5-8"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#ffffff"
+     id="tspan5897-3-5-1-9-1"
+     x="-646.79327"
+     y="3643.8044">MIDNIGHT SNACK:</tspan></text>
+
+
 <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40.89192963px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.02229822"
-       x="-293.4324"
-       y="3643.2668"
-       id="text5899-3-5-0-0-7-2"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Didact Gothic';-inkscape-font-specification:'Didact Gothic';fill:#ffffff;stroke-width:1.02229822"
-         id="tspan5897-6-6-3-6-7-8"
-         x="-293.4324"
-         y="3643.2668">12:00 PM</tspan></text>
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:40.89192963px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.02229822"
+   x="-293.4324"
+   y="3643.2668"
+   id="text5899-3-5-0-0-7-2"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Didact Gothic';-inkscape-font-specification:'Didact Gothic';fill:#ffffff;stroke-width:1.02229822"
+     id="tspan5897-6-6-3-6-7-8"
+     x="-293.4324"
+     y="3643.2668">12:00 AM</tspan></text>
+
+
 <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       x="-646.79327"
-       y="3700.676"
-       id="text5899-5-9-1-5-7-36"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#ffffff"
-         id="tspan5897-3-3-0-9-3-8"
-         x="-646.79327"
-         y="3700.676">LOCATION:</tspan></text>
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+   x="-646.79327"
+   y="3700.676"
+   id="text5899-5-9-1-5-7-36"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#ffffff"
+     id="tspan5897-3-3-0-9-3-8"
+     x="-646.79327"
+     y="3700.676">LOCATION:</tspan></text>
+
+
 <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40.89192963px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.02229822"
-       x="-426.71875"
-       y="3700.1382"
-       id="text5899-3-5-6-6-4-6-02"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Didact Gothic';-inkscape-font-specification:'Didact Gothic';fill:#ffffff;stroke-width:1.02229822"
-         id="tspan5897-6-6-0-3-9-5-1"
-         x="-426.71875"
-         y="3700.1382">MAIN LOBBY</tspan></text>
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:40.89192963px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.02229822"
+   x="-426.71875"
+   y="3700.1382"
+   id="text5899-3-5-6-6-4-6-02"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Didact Gothic';-inkscape-font-specification:'Didact Gothic';fill:#ffffff;stroke-width:1.02229822"
+     id="tspan5897-6-6-0-3-9-5-1"
+     x="-426.71875"
+     y="3700.1382">MAIN LOBBY</tspan></text>
+
+
 <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       x="-646.79669"
-       y="3757.5488"
-       id="text5899-5-9-5-0-9-3-0"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#ffffff"
-         id="tspan5897-3-3-9-6-1-9-5"
-         x="-646.79669"
-         y="3757.5488">FOOD:</tspan></text>
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+   x="-646.79669"
+   y="3757.5488"
+   id="text5899-5-9-5-0-9-3-0"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#ffffff"
+     id="tspan5897-3-3-9-6-1-9-5"
+     x="-646.79669"
+     y="3757.5488">FOOD:</tspan></text>
+
+
 <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40.89192963px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.02229822"
-       x="-510.22574"
-       y="3757.0112"
-       id="text5899-3-5-6-2-1-7-4-1"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Didact Gothic';-inkscape-font-specification:'Didact Gothic';fill:#ffffff;stroke-width:1.02229822"
-         id="tspan5897-6-6-0-2-5-7-8-1"
-         x="-510.22574"
-         y="3757.0112">KRISPY KREME DONUTS</tspan></text>
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:40.89192963px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.02229822"
+   x="-510.22574"
+   y="3757.0112"
+   id="text5899-3-5-6-2-1-7-4-1"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Didact Gothic';-inkscape-font-specification:'Didact Gothic';fill:#ffffff;stroke-width:1.02229822"
+     id="tspan5897-6-6-0-2-5-7-8-1"
+     x="-510.22574"
+     y="3757.0112">KRISPY KREME DONUTS</tspan></text>
+
+
 </g><g
      id="g6749-0"
      transform="matrix(0.90829925,0,0,0.90829925,-1164.5159,2137.7089)"><text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       x="2066.9971"
-       y="490.39801"
-       id="text5899-5-7-0-5-8"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#ffffff"
-         id="tspan5897-3-6-6-0-5"
-         x="2066.9971"
-         y="490.39801">SCAVENGER HUNT:</tspan></text>
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+   x="2066.9971"
+   y="490.39801"
+   id="text5899-5-7-0-5-8"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#ffffff"
+     id="tspan5897-3-6-6-0-5"
+     x="2066.9971"
+     y="490.39801">SCAVENGER HUNT:</tspan></text>
+
+
 <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40.89192963px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.02229822"
-       x="2442.9458"
-       y="489.86035"
-       id="text5899-3-5-5-8-4-0"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Didact Gothic';-inkscape-font-specification:'Didact Gothic';fill:#ffffff;stroke-width:1.02229822"
-         id="tspan5897-6-6-6-9-8-6"
-         x="2442.9458"
-         y="489.86035">1:30 PM</tspan></text>
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:40.89192963px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.02229822"
+   x="2442.9458"
+   y="489.86035"
+   id="text5899-3-5-5-8-4-0"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Didact Gothic';-inkscape-font-specification:'Didact Gothic';fill:#ffffff;stroke-width:1.02229822"
+     id="tspan5897-6-6-6-9-8-6"
+     x="2442.9458"
+     y="489.86035">1:30 AM</tspan></text>
+
+
 <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       x="2066.9973"
-       y="547.26959"
-       id="text5899-5-9-7-2-7-4"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#ffffff"
-         id="tspan5897-3-3-4-66-1-6"
-         x="2066.9973"
-         y="547.26959">LOCATION:</tspan></text>
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+   x="2066.9973"
+   y="547.26959"
+   id="text5899-5-9-7-2-7-4"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#ffffff"
+     id="tspan5897-3-3-4-66-1-6"
+     x="2066.9973"
+     y="547.26959">LOCATION:</tspan></text>
+
+
 <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40.89192963px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.02229822"
-       x="2285.9739"
-       y="546.73193"
-       id="text5899-3-5-6-5-4-7-2"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Didact Gothic';-inkscape-font-specification:'Didact Gothic';fill:#ffffff;stroke-width:1.02229822"
-         id="tspan5897-6-6-0-25-9-2-5"
-         x="2285.9739"
-         y="546.73193">OUTSIDE</tspan></text>
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:40.89192963px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.02229822"
+   x="2285.9739"
+   y="546.73193"
+   id="text5899-3-5-6-5-4-7-2"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Didact Gothic';-inkscape-font-specification:'Didact Gothic';fill:#ffffff;stroke-width:1.02229822"
+     id="tspan5897-6-6-0-25-9-2-5"
+     x="2285.9739"
+     y="546.73193">OUTSIDE</tspan></text>
+
+
 </g><g
      transform="matrix(0.81980061,0,0,0.81980061,677.68671,198.41706)"
      id="g7080-4-8-6-2"><text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       x="-506.79327"
-       y="3643.8044"
-       id="text5899-5-4-6-5-8-6-8-6"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#ffffff"
-         id="tspan5897-3-5-1-9-1-2-7-5"
-         x="-506.79327"
-         y="3643.8044">BREAKFAST:</tspan></text>
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+   x="-506.79327"
+   y="3643.8044"
+   id="text5899-5-4-6-5-8-6-8-6"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#ffffff"
+     id="tspan5897-3-5-1-9-1-2-7-5"
+     x="-506.79327"
+     y="3643.8044">BREAKFAST:</tspan></text>
+
+
 <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40.89192963px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.02229822"
-       x="-259.02744"
-       y="3643.2668"
-       id="text5899-3-5-0-0-7-2-8-9-8"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Didact Gothic';-inkscape-font-specification:'Didact Gothic';fill:#ffffff;stroke-width:1.02229822"
-         id="tspan5897-6-6-3-6-7-8-4-0-7"
-         x="-259.02744"
-         y="3643.2668">7:00 AM</tspan></text>
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:40.89192963px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.02229822"
+   x="-259.02744"
+   y="3643.2668"
+   id="text5899-3-5-0-0-7-2-8-9-8"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Didact Gothic';-inkscape-font-specification:'Didact Gothic';fill:#ffffff;stroke-width:1.02229822"
+     id="tspan5897-6-6-3-6-7-8-4-0-7"
+     x="-259.02744"
+     y="3643.2668">7:00 AM</tspan></text>
+
+
 <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       x="-569.01154"
-       y="3700.676"
-       id="text5899-5-9-1-5-7-36-7-3-9"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#ffffff"
-         id="tspan5897-3-3-0-9-3-8-2-3-6"
-         x="-569.01154"
-         y="3700.676">LOCATION:</tspan></text>
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+   x="-569.01154"
+   y="3700.676"
+   id="text5899-5-9-1-5-7-36-7-3-9"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#ffffff"
+     id="tspan5897-3-3-0-9-3-8-2-3-6"
+     x="-569.01154"
+     y="3700.676">LOCATION:</tspan></text>
+
+
 <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40.89192963px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.02229822"
-       x="-350.35123"
-       y="3700.1382"
-       id="text5899-3-5-6-6-4-6-02-4-3-0"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Didact Gothic';-inkscape-font-specification:'Didact Gothic';fill:#ffffff;stroke-width:1.02229822"
-         id="tspan5897-6-6-0-3-9-5-1-0-7-4"
-         x="-350.35123"
-         y="3700.1382">MAIN LOBBY</tspan></text>
-<text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       x="-318.69916"
-       y="3757.5488"
-       id="text5899-5-9-5-0-9-3-0-6-3-1"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#ffffff"
-         id="tspan5897-3-3-9-6-1-9-5-2-2-0"
-         x="-318.69916"
-         y="3757.5488">FOOD:</tspan></text>
-<text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40.89192963px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.02229822"
-       x="-194.149"
-       y="3757.0112"
-       id="text5899-3-5-6-2-1-7-4-1-9-6-4"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Didact Gothic';-inkscape-font-specification:'Didact Gothic';fill:#ffffff;stroke-width:1.02229822"
-         id="tspan5897-6-6-0-2-5-7-8-1-9-5-8"
-         x="-194.149"
-         y="3757.0112">TBD</tspan></text>
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:40.89192963px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.02229822"
+   x="-350.35123"
+   y="3700.1382"
+   id="text5899-3-5-6-6-4-6-02-4-3-0"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Didact Gothic';-inkscape-font-specification:'Didact Gothic';fill:#ffffff;stroke-width:1.02229822"
+     id="tspan5897-6-6-0-3-9-5-1-0-7-4"
+     x="-350.35123"
+     y="3700.1382">MAIN LOBBY</tspan></text>
+
+
+
+
+
+
 </g><g
      transform="matrix(0.90829925,0,0,0.90829925,-1711.7505,2123.882)"
      id="g7900-7"><g
        id="g7910-0"><text
-         id="text5899-5-7-0-5-8-3-8"
-         y="2054.1421"
-         x="2381.5903"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-         xml:space="preserve"><tspan
-           y="2054.1421"
-           x="2381.5903"
-           id="tspan5897-3-6-6-0-5-3-6"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#ffffff">MLH (WEREWOLF) AND CTF:</tspan></text>
+   id="text5899-5-7-0-5-8-3-8"
+   y="2054.1421"
+   x="2381.5903"
+   style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+   xml:space="preserve"><tspan
+     y="2054.1421"
+     x="2381.5903"
+     id="tspan5897-3-6-6-0-5-3-6"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#ffffff">MLH (WEREWOLF) AND CTF:</tspan></text>
+
+
 <text
-         id="text5899-3-5-5-8-4-0-8-2"
-         y="2053.6042"
-         x="2923.5391"
-         style="font-style:normal;font-weight:normal;font-size:40.89192963px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.02229822"
-         xml:space="preserve"><tspan
-           y="2053.6042"
-           x="2923.5391"
-           id="tspan5897-6-6-6-9-8-6-0-4"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Didact Gothic';-inkscape-font-specification:'Didact Gothic';fill:#ffffff;stroke-width:1.02229822">9:00 AM</tspan></text>
+   id="text5899-3-5-5-8-4-0-8-2"
+   y="2053.6042"
+   x="2923.5391"
+   style="font-style:normal;font-weight:normal;font-size:40.89192963px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.02229822"
+   xml:space="preserve"><tspan
+     y="2053.6042"
+     x="2923.5391"
+     id="tspan5897-6-6-6-9-8-6-0-4"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Didact Gothic';-inkscape-font-specification:'Didact Gothic';fill:#ffffff;stroke-width:1.02229822">9:00 AM</tspan></text>
+
+
 <text
-         id="text5899-5-9-7-2-7-4-5-7"
-         y="2111.0137"
-         x="2539.5906"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-         xml:space="preserve"><tspan
-           y="2111.0137"
-           x="2539.5906"
-           id="tspan5897-3-3-4-66-1-6-6-9"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#ffffff">LOCATION:</tspan></text>
+   id="text5899-5-9-7-2-7-4-5-7"
+   y="2111.0137"
+   x="2539.5906"
+   style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+   xml:space="preserve"><tspan
+     y="2111.0137"
+     x="2539.5906"
+     id="tspan5897-3-3-4-66-1-6-6-9"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#ffffff">LOCATION:</tspan></text>
+
+
 <text
-         id="text5899-3-5-6-5-4-7-2-6-3"
-         y="2110.4758"
-         x="2758.5671"
-         style="font-style:normal;font-weight:normal;font-size:40.89192963px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.02229822"
-         xml:space="preserve"><tspan
-           y="2110.4758"
-           x="2758.5671"
-           id="tspan5897-6-6-0-25-9-2-5-4-9"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Didact Gothic';-inkscape-font-specification:'Didact Gothic';fill:#ffffff;stroke-width:1.02229822">BYTWERK</tspan></text>
+   id="text5899-3-5-6-5-4-7-2-6-3"
+   y="2110.4758"
+   x="2758.5671"
+   style="font-style:normal;font-weight:normal;font-size:40.89192963px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.02229822"
+   xml:space="preserve"><tspan
+     y="2110.4758"
+     x="2758.5671"
+     id="tspan5897-6-6-0-25-9-2-5-4-9"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Didact Gothic';-inkscape-font-specification:'Didact Gothic';fill:#ffffff;stroke-width:1.02229822">170</tspan></text>
+
+
 </g></g><g
      transform="matrix(0.90829925,0,0,0.90829925,1564.801,1404.3192)"
      id="g7080-2"><text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       x="-646.79327"
-       y="3643.8044"
-       id="text5899-5-4-6-5-83"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Bold'"
-         id="tspan5897-3-5-1-9-0"
-         x="-646.79327"
-         y="3643.8044">USER INTERFACE 101:</tspan></text>
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+   x="-646.79327"
+   y="3643.8044"
+   id="text5899-5-4-6-5-83"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Bold'"
+     id="tspan5897-3-5-1-9-0"
+     x="-646.79327"
+     y="3643.8044">USER INTERFACE 101:</tspan></text>
+
+
 <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40.89192963px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.02229822"
-       x="-229.72844"
-       y="3643.2668"
-       id="text5899-3-5-0-0-7-17"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Didact Gothic';-inkscape-font-specification:'Didact Gothic';stroke-width:1.02229822"
-         id="tspan5897-6-6-3-6-7-89"
-         x="-229.72844"
-         y="3643.2668">10:00 PM</tspan></text>
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:40.89192963px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.02229822"
+   x="-229.72844"
+   y="3643.2668"
+   id="text5899-3-5-0-0-7-17"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Didact Gothic';-inkscape-font-specification:'Didact Gothic';stroke-width:1.02229822"
+     id="tspan5897-6-6-3-6-7-89"
+     x="-229.72844"
+     y="3643.2668">10:00 PM</tspan></text>
+
+
 <g
-       id="g5984-0-6-1-6-1"
-       transform="translate(-1052.2382,3212.3801)"><text
-         id="text5899-5-9-1-5-7-5"
-         y="488.29584"
-         x="405.44492"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-         xml:space="preserve"><tspan
-           y="488.29584"
-           x="405.44492"
-           id="tspan5897-3-3-0-9-3-49"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Bold'">LEADING:</tspan></text>
+   id="g5984-0-6-1-6-1"
+   transform="translate(-1052.2382,3212.3801)"><text
+   id="text5899-5-9-1-5-7-5"
+   y="488.29584"
+   x="405.44492"
+   style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+   xml:space="preserve"><tspan
+     y="488.29584"
+     x="405.44492"
+     id="tspan5897-3-3-0-9-3-49"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Bold'">LEADING:</tspan></text>
+
+
 <text
-         id="text5899-3-5-6-6-4-6-25"
-         y="487.75815"
-         x="596.42145"
-         style="font-style:normal;font-weight:normal;font-size:40.89192963px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.02229822"
-         xml:space="preserve"><tspan
-           y="487.75815"
-           x="596.42145"
-           id="tspan5897-6-6-0-3-9-5-7"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Didact Gothic';-inkscape-font-specification:'Didact Gothic';stroke-width:1.02229822">STEELCASE</tspan></text>
+   id="text5899-3-5-6-6-4-6-25"
+   y="487.75815"
+   x="596.42145"
+   style="font-style:normal;font-weight:normal;font-size:40.89192963px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.02229822"
+   xml:space="preserve"><tspan
+     y="487.75815"
+     x="596.42145"
+     id="tspan5897-6-6-0-3-9-5-7"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Didact Gothic';-inkscape-font-specification:'Didact Gothic';stroke-width:1.02229822">STEELCASE</tspan></text>
+
+
 </g><text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       x="-646.79669"
-       y="3757.5488"
-       id="text5899-5-9-5-0-9-3-4"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Bold'"
-         id="tspan5897-3-3-9-6-1-9-9"
-         x="-646.79669"
-         y="3757.5488">LOCATION:</tspan></text>
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+   x="-646.79669"
+   y="3757.5488"
+   id="text5899-5-9-5-0-9-3-4"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Bold'"
+     id="tspan5897-3-3-9-6-1-9-9"
+     x="-646.79669"
+     y="3757.5488">LOCATION:</tspan></text>
+
+
 <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40.89192963px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.02229822"
-       x="-428.22574"
-       y="3757.0112"
-       id="text5899-3-5-6-2-1-7-4-9"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Didact Gothic';-inkscape-font-specification:'Didact Gothic';stroke-width:1.02229822"
-         id="tspan5897-6-6-0-2-5-7-8-4"
-         x="-428.22574"
-         y="3757.0112">BYTWERK</tspan></text>
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:40.89192963px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.02229822"
+   x="-428.22574"
+   y="3757.0112"
+   id="text5899-3-5-6-2-1-7-4-9"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Didact Gothic';-inkscape-font-specification:'Didact Gothic';stroke-width:1.02229822"
+     id="tspan5897-6-6-0-2-5-7-8-4"
+     x="-428.22574"
+     y="3757.0112">BYTWERK</tspan></text>
+
+
 </g><g
      transform="matrix(0.90829925,0,0,0.90829925,1611.2782,1403.0129)"
      id="g7094-5"><g
        id="g7203-9"><text
-         id="text5899-5-4-6-5-9-3"
-         y="3871.4929"
-         x="-1362.3854"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-         xml:space="preserve"><tspan
-           y="3871.4929"
-           x="-1362.3854"
-           id="tspan5897-3-5-1-9-3-5"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Bold'">LUNCH:</tspan></text>
+   id="text5899-5-4-6-5-9-3"
+   y="3871.4929"
+   x="-1362.3854"
+   style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+   xml:space="preserve"><tspan
+     y="3871.4929"
+     x="-1362.3854"
+     id="tspan5897-3-5-1-9-3-5"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Bold'">LUNCH:</tspan></text>
+
+
 <text
-         id="text5899-3-5-0-0-7-9-7"
-         y="3870.9551"
-         x="-1209.7784"
-         style="font-style:normal;font-weight:normal;font-size:40.89192963px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.02229822"
-         xml:space="preserve"><tspan
-           y="3870.9551"
-           x="-1209.7784"
-           id="tspan5897-6-6-3-6-7-0-0"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Didact Gothic';-inkscape-font-specification:'Didact Gothic';stroke-width:1.02229822">12:00 PM</tspan></text>
+   id="text5899-3-5-0-0-7-9-7"
+   y="3870.9551"
+   x="-1209.7784"
+   style="font-style:normal;font-weight:normal;font-size:40.89192963px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.02229822"
+   xml:space="preserve"><tspan
+     y="3870.9551"
+     x="-1209.7784"
+     id="tspan5897-6-6-3-6-7-0-0"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Didact Gothic';-inkscape-font-specification:'Didact Gothic';stroke-width:1.02229822">12:00 PM</tspan></text>
+
+
 <text
-         id="text5899-5-9-1-5-7-8-8"
-         y="3928.3643"
-         x="-1362.3854"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-         xml:space="preserve"><tspan
-           y="3928.3643"
-           x="-1362.3854"
-           id="tspan5897-3-3-0-9-3-5-1"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Bold'">LOCATION:</tspan></text>
+   id="text5899-5-9-1-5-7-8-8"
+   y="3928.3643"
+   x="-1362.3854"
+   style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+   xml:space="preserve"><tspan
+     y="3928.3643"
+     x="-1362.3854"
+     id="tspan5897-3-3-0-9-3-5-1"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Bold'">LOCATION:</tspan></text>
+
+
 <text
-         id="text5899-3-5-6-6-4-6-0-9"
-         y="3927.8267"
-         x="-1148.7815"
-         style="font-style:normal;font-weight:normal;font-size:40.89192963px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.02229822"
-         xml:space="preserve"><tspan
-           y="3927.8267"
-           x="-1148.7815"
-           id="tspan5897-6-6-0-3-9-5-9-9"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Didact Gothic';-inkscape-font-specification:'Didact Gothic';stroke-width:1.02229822">MAIN LOBBY</tspan></text>
+   id="text5899-3-5-6-6-4-6-0-9"
+   y="3927.8267"
+   x="-1148.7815"
+   style="font-style:normal;font-weight:normal;font-size:40.89192963px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.02229822"
+   xml:space="preserve"><tspan
+     y="3927.8267"
+     x="-1148.7815"
+     id="tspan5897-6-6-0-3-9-5-9-9"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Didact Gothic';-inkscape-font-specification:'Didact Gothic';stroke-width:1.02229822">MAIN LOBBY</tspan></text>
+
+
 <text
-         id="text5899-5-9-5-0-9-3-3-7"
-         y="3985.2373"
-         x="-1362.3888"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-         xml:space="preserve"><tspan
-           y="3985.2373"
-           x="-1362.3888"
-           id="tspan5897-3-3-9-6-1-9-8-8"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Bold'">FOOD:</tspan></text>
+   id="text5899-5-9-5-0-9-3-3-7"
+   y="3985.2373"
+   x="-1362.3888"
+   style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+   xml:space="preserve"><tspan
+     y="3985.2373"
+     x="-1362.3888"
+     id="tspan5897-3-3-9-6-1-9-8-8"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Bold'">FOOD:</tspan></text>
+
+
 <text
-         id="text5899-3-5-6-2-1-7-4-5-2"
-         y="3984.6997"
-         x="-1235.7417"
-         style="font-style:normal;font-weight:normal;font-size:40.89192963px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.02229822"
-         xml:space="preserve"><tspan
-           y="3984.6997"
-           x="-1235.7417"
-           id="tspan5897-6-6-0-2-5-7-8-6-5"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Didact Gothic';-inkscape-font-specification:'Didact Gothic';stroke-width:1.02229822">POTBELLY</tspan></text>
+   id="text5899-3-5-6-2-1-7-4-5-2"
+   y="3984.6997"
+   x="-1235.7417"
+   style="font-style:normal;font-weight:normal;font-size:40.89192963px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.02229822"
+   xml:space="preserve"><tspan
+     y="3984.6997"
+     x="-1235.7417"
+     id="tspan5897-6-6-0-2-5-7-8-6-5"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Didact Gothic';-inkscape-font-specification:'Didact Gothic';stroke-width:1.02229822">POTBELLY</tspan></text>
+
+
 </g></g><g
      transform="matrix(0.90829925,0,0,0.90829925,-892.04435,824.55691)"
      id="g8311-3"><text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       x="1624.5729"
-       y="5777.3716"
-       id="text5899-5-4-6-5-61-4"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Bold'"
-         id="tspan5897-3-5-1-9-32-9"
-         x="1624.5729"
-         y="5777.3716">STOP HACKING:</tspan></text>
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+   x="1624.5729"
+   y="5777.3716"
+   id="text5899-5-4-6-5-61-4"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Bold'"
+     id="tspan5897-3-5-1-9-32-9"
+     x="1624.5729"
+     y="5777.3716">STOP HACKING:</tspan></text>
+
+
 <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40.89192963px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.02229822"
-       x="1935.5719"
-       y="5776.834"
-       id="text5899-3-5-0-0-7-15-0"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Didact Gothic';-inkscape-font-specification:'Didact Gothic';stroke-width:1.02229822"
-         id="tspan5897-6-6-3-6-7-9-2"
-         x="1935.5719"
-         y="5776.834">5:00 PM</tspan></text>
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:40.89192963px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.02229822"
+   x="1935.5719"
+   y="5776.834"
+   id="text5899-3-5-0-0-7-15-0"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Didact Gothic';-inkscape-font-specification:'Didact Gothic';stroke-width:1.02229822"
+     id="tspan5897-6-6-3-6-7-9-2"
+     x="1935.5719"
+     y="5776.834">5:00 PM</tspan></text>
+
+
 </g><g
      transform="matrix(0.90829925,0,0,0.90829925,19.419694,758.43305)"
      id="g8247-0"><text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       x="519.46899"
-       y="6168.313"
-       id="text5899-5-4-6-5-6-1"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Bold'"
-         id="tspan5897-3-5-1-9-2-9"
-         x="519.46899"
-         y="6168.313">JUDGING:</tspan></text>
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+   x="519.46899"
+   y="6168.313"
+   id="text5899-5-4-6-5-6-1"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Bold'"
+     id="tspan5897-3-5-1-9-2-9"
+     x="519.46899"
+     y="6168.313">JUDGING:</tspan></text>
+
+
 <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40.89192963px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.02229822"
-       x="715.78857"
-       y="6167.7754"
-       id="text5899-3-5-0-0-7-1-6"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Didact Gothic';-inkscape-font-specification:'Didact Gothic';stroke-width:1.02229822"
-         id="tspan5897-6-6-3-6-7-7-2"
-         x="715.78857"
-         y="6167.7754">5:15 PM - 6:00 PM</tspan></text>
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:40.89192963px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.02229822"
+   x="715.78857"
+   y="6167.7754"
+   id="text5899-3-5-0-0-7-1-6"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Didact Gothic';-inkscape-font-specification:'Didact Gothic';stroke-width:1.02229822"
+     id="tspan5897-6-6-3-6-7-7-2"
+     x="715.78857"
+     y="6167.7754">5:15 PM - 6:00 PM</tspan></text>
+
+
 <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       x="519.46899"
-       y="6225.1846"
-       id="text5899-5-9-1-5-7-7-1"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Bold'"
-         id="tspan5897-3-3-0-9-3-4-2"
-         x="519.46899"
-         y="6225.1846">LOCATION:</tspan></text>
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+   x="519.46899"
+   y="6225.1846"
+   id="text5899-5-9-1-5-7-7-1"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Bold'"
+     id="tspan5897-3-3-0-9-3-4-2"
+     x="519.46899"
+     y="6225.1846">LOCATION:</tspan></text>
+
+
 <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40.89192963px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.02229822"
-       x="741.75793"
-       y="6224.647"
-       id="text5899-3-5-6-6-4-6-1-0"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Didact Gothic';-inkscape-font-specification:'Didact Gothic';stroke-width:1.02229822"
-         id="tspan5897-6-6-0-3-9-5-8-7"
-         x="741.75793"
-         y="6224.647">MAIN LOBBY</tspan></text>
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:40.89192963px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.02229822"
+   x="741.75793"
+   y="6224.647"
+   id="text5899-3-5-6-6-4-6-1-0"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Didact Gothic';-inkscape-font-specification:'Didact Gothic';stroke-width:1.02229822"
+     id="tspan5897-6-6-0-3-9-5-8-7"
+     x="741.75793"
+     y="6224.647">MAIN LOBBY</tspan></text>
+
+
 <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       x="519.46558"
-       y="6282.0576"
-       id="text5899-5-9-5-0-9-3-9-3"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Bold'"
-         id="tspan5897-3-3-9-6-1-9-75-1"
-         x="519.46558"
-         y="6282.0576">SHOW OFF YOUR PROJECTS.</tspan></text>
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+   x="519.46558"
+   y="6282.0576"
+   id="text5899-5-9-5-0-9-3-9-3"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Bold'"
+     id="tspan5897-3-3-9-6-1-9-75-1"
+     x="519.46558"
+     y="6282.0576">SHOW OFF YOUR PROJECTS.</tspan></text>
+
+
 </g><g
      transform="matrix(0.90829925,0,0,0.90829925,-472.92837,753.09753)"
      id="g8295-1"><g
        id="g7080-0-9"
        transform="translate(2196.2361,3008.6118)"><g
          id="g8502-0"><g
-           id="g8487-5"
-           transform="translate(137.00194)"><text
-             id="text5899-5-4-6-5-0-6"
-             y="3643.8044"
-             x="-646.79327"
-             style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-             xml:space="preserve"><tspan
-               y="3643.8044"
-               x="-646.79327"
-               id="tspan5897-3-5-1-9-46-7"
-               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Bold'">DINNER:</tspan></text>
+   id="g8487-5"
+   transform="translate(137.00194)"><text
+   id="text5899-5-4-6-5-0-6"
+   y="3643.8044"
+   x="-646.79327"
+   style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+   xml:space="preserve"><tspan
+     y="3643.8044"
+     x="-646.79327"
+     id="tspan5897-3-5-1-9-46-7"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Bold'">DINNER:</tspan></text>
+
+
 <text
-             id="text5899-3-5-0-0-7-26-7"
-             y="3643.2668"
-             x="-480.53036"
-             style="font-style:normal;font-weight:normal;font-size:40.89192963px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.02229822"
-             xml:space="preserve"><tspan
-               y="3643.2668"
-               x="-480.53036"
-               id="tspan5897-6-6-3-6-7-75-4"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Didact Gothic';-inkscape-font-specification:'Didact Gothic';stroke-width:1.02229822">6:15 PM</tspan></text>
+   id="text5899-3-5-0-0-7-26-7"
+   y="3643.2668"
+   x="-480.53036"
+   style="font-style:normal;font-weight:normal;font-size:40.89192963px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.02229822"
+   xml:space="preserve"><tspan
+     y="3643.2668"
+     x="-480.53036"
+     id="tspan5897-6-6-3-6-7-75-4"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Didact Gothic';-inkscape-font-specification:'Didact Gothic';stroke-width:1.02229822">6:15 PM</tspan></text>
+
+
 </g><text
-           xml:space="preserve"
-           style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-           x="-646.79327"
-           y="3700.676"
-           id="text5899-5-9-1-5-7-9-0"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Bold'"
-             id="tspan5897-3-3-0-9-3-87-6"
-             x="-646.79327"
-             y="3700.676">LOCATION:</tspan></text>
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+   x="-646.79327"
+   y="3700.676"
+   id="text5899-5-9-1-5-7-9-0"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Bold'"
+     id="tspan5897-3-3-0-9-3-87-6"
+     x="-646.79327"
+     y="3700.676">LOCATION:</tspan></text>
+
+
 <text
-           xml:space="preserve"
-           style="font-style:normal;font-weight:normal;font-size:40.89192963px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.02229822"
-           x="-430.40509"
-           y="3700.1382"
-           id="text5899-3-5-6-6-4-6-2-4"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Didact Gothic';-inkscape-font-specification:'Didact Gothic';stroke-width:1.02229822"
-             id="tspan5897-6-6-0-3-9-5-82-7"
-             x="-430.40509"
-             y="3700.1382">MAIN LOBBY</tspan></text>
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:40.89192963px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.02229822"
+   x="-430.40509"
+   y="3700.1382"
+   id="text5899-3-5-6-6-4-6-2-4"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Didact Gothic';-inkscape-font-specification:'Didact Gothic';stroke-width:1.02229822"
+     id="tspan5897-6-6-0-3-9-5-82-7"
+     x="-430.40509"
+     y="3700.1382">MAIN LOBBY</tspan></text>
+
+
 <text
-           xml:space="preserve"
-           style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-           x="-547.3598"
-           y="3757.5488"
-           id="text5899-5-9-5-0-9-3-99-4"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Bold'"
-             id="tspan5897-3-3-9-6-1-9-6-8"
-             x="-547.3598"
-             y="3757.5488">FOOD:</tspan></text>
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+   x="-547.3598"
+   y="3757.5488"
+   id="text5899-5-9-5-0-9-3-99-4"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Bold'"
+     id="tspan5897-3-3-9-6-1-9-6-8"
+     x="-547.3598"
+     y="3757.5488">FOOD:</tspan></text>
+
+
 <text
-           xml:space="preserve"
-           style="font-style:normal;font-weight:normal;font-size:40.89192963px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.02229822"
-           x="-417.17719"
-           y="3757.0112"
-           id="text5899-3-5-6-2-1-7-4-0-5"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Didact Gothic';-inkscape-font-specification:'Didact Gothic';stroke-width:1.02229822"
-             id="tspan5897-6-6-0-2-5-7-8-2-8"
-             x="-417.17719"
-             y="3757.0112">CHICK-FIL-A</tspan></text>
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:40.89192963px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.02229822"
+   x="-417.17719"
+   y="3757.0112"
+   id="text5899-3-5-6-2-1-7-4-0-5"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Didact Gothic';-inkscape-font-specification:'Didact Gothic';stroke-width:1.02229822"
+     id="tspan5897-6-6-0-2-5-7-8-2-8"
+     x="-417.17719"
+     y="3757.0112">CHICK-FIL-A</tspan></text>
+
+
 </g></g></g><g
      id="g8311-9-2"
      transform="matrix(0.90829925,0,0,0.90829925,-1239.0112,2158.7246)"><text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       x="1624.5729"
-       y="5777.3716"
-       id="text5899-5-4-6-5-61-2-6"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Bold'"
-         id="tspan5897-3-5-1-9-32-8-0"
-         x="1624.5729"
-         y="5777.3716">END:</tspan></text>
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+   x="1624.5729"
+   y="5777.3716"
+   id="text5899-5-4-6-5-61-2-6"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Bold'"
+     id="tspan5897-3-5-1-9-32-8-0"
+     x="1624.5729"
+     y="5777.3716">END:</tspan></text>
+
+
 <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40.89192963px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.02229822"
-       x="1734.4884"
-       y="5776.834"
-       id="text5899-3-5-0-0-7-15-8-6"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Didact Gothic';-inkscape-font-specification:'Didact Gothic';stroke-width:1.02229822"
-         id="tspan5897-6-6-3-6-7-9-8-6"
-         x="1734.4884"
-         y="5776.834">8:10 PM</tspan></text>
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:40.89192963px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.02229822"
+   x="1734.4884"
+   y="5776.834"
+   id="text5899-3-5-0-0-7-15-8-6"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Didact Gothic';-inkscape-font-specification:'Didact Gothic';stroke-width:1.02229822"
+     id="tspan5897-6-6-3-6-7-9-8-6"
+     x="1734.4884"
+     y="5776.834">8:10 PM</tspan></text>
+
+
 </g><g
      transform="matrix(0.90829925,0,0,0.90829925,578.09516,527.98104)"
      id="g8385-4"><g
@@ -5353,68 +5530,80 @@
          id="g8401-2"
          transform="translate(83.06226,-37.565766)" /><g
          id="g8477-8"><text
-           transform="translate(83.06226,-37.565766)"
-           xml:space="preserve"
-           style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-           x="406.53333"
-           y="7600.3813"
-           id="text5899-5-4-6-5-5-9"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Bold'"
-             id="tspan5897-3-5-1-9-17-6"
-             x="406.53333"
-             y="7600.3813">CLOSING CEREMONY:</tspan></text>
+   transform="translate(83.06226,-37.565766)"
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+   x="406.53333"
+   y="7600.3813"
+   id="text5899-5-4-6-5-5-9"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Bold'"
+     id="tspan5897-3-5-1-9-17-6"
+     x="406.53333"
+     y="7600.3813">CLOSING CEREMONY:</tspan></text>
+
+
 <text
-           transform="translate(83.06226,-37.565766)"
-           xml:space="preserve"
-           style="font-style:normal;font-weight:normal;font-size:40.89192963px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.02229822"
-           x="823.59814"
-           y="7599.8438"
-           id="text5899-3-5-0-0-7-4-0"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Didact Gothic';-inkscape-font-specification:'Didact Gothic';stroke-width:1.02229822"
-             id="tspan5897-6-6-3-6-7-3-7"
-             x="823.59814"
-             y="7599.8438">6:45 PM</tspan></text>
+   transform="translate(83.06226,-37.565766)"
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:40.89192963px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.02229822"
+   x="823.59814"
+   y="7599.8438"
+   id="text5899-3-5-0-0-7-4-0"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Didact Gothic';-inkscape-font-specification:'Didact Gothic';stroke-width:1.02229822"
+     id="tspan5897-6-6-3-6-7-3-7"
+     x="823.59814"
+     y="7599.8438">6:45 PM</tspan></text>
+
+
 <text
-           transform="translate(79.93726,-37.565766)"
-           id="text5899-5-9-1-5-7-4-0"
-           y="7657.2529"
-           x="415.86234"
-           style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-           xml:space="preserve"><tspan
-             y="7657.2529"
-             x="415.86234"
-             id="tspan5897-3-3-0-9-3-6-1"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Bold'">(INCLUDING DEMOS OF TOP 5)</tspan></text>
+   transform="translate(79.93726,-37.565766)"
+   id="text5899-5-9-1-5-7-4-0"
+   y="7657.2529"
+   x="415.86234"
+   style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+   xml:space="preserve"><tspan
+     y="7657.2529"
+     x="415.86234"
+     id="tspan5897-3-3-0-9-3-6-1"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Bold'">(INCLUDING DEMOS OF TOP 5)</tspan></text>
+
+
 <text
-           transform="translate(79.93726,-37.565766)"
-           id="text5899-5-9-5-0-9-3-2-0"
-           y="7714.1255"
-           x="525.2395"
-           style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-           xml:space="preserve"><tspan
-             y="7714.1255"
-             x="525.2395"
-             id="tspan5897-3-3-9-6-1-9-64-1"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Bold'">LOCATION:</tspan></text>
+   transform="translate(79.93726,-37.565766)"
+   id="text5899-5-9-5-0-9-3-2-0"
+   y="7714.1255"
+   x="525.2395"
+   style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+   xml:space="preserve"><tspan
+     y="7714.1255"
+     x="525.2395"
+     id="tspan5897-3-3-9-6-1-9-64-1"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Bold'">LOCATION:</tspan></text>
+
+
 <text
-           transform="translate(79.93726,-37.565766)"
-           id="text5899-3-5-6-2-1-7-4-12-3"
-           y="7713.5879"
-           x="743.81049"
-           style="font-style:normal;font-weight:normal;font-size:40.89192963px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.02229822"
-           xml:space="preserve"><tspan
-             y="7713.5879"
-             x="743.81049"
-             id="tspan5897-6-6-0-2-5-7-8-88-7"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Didact Gothic';-inkscape-font-specification:'Didact Gothic';stroke-width:1.02229822">MAIN LOBBY</tspan></text>
+   transform="translate(79.93726,-37.565766)"
+   id="text5899-3-5-6-2-1-7-4-12-3"
+   y="7713.5879"
+   x="743.81049"
+   style="font-style:normal;font-weight:normal;font-size:40.89192963px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.02229822"
+   xml:space="preserve"><tspan
+     y="7713.5879"
+     x="743.81049"
+     id="tspan5897-6-6-0-2-5-7-8-88-7"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Didact Gothic';-inkscape-font-specification:'Didact Gothic';stroke-width:1.02229822">MAIN LOBBY</tspan></text>
+
+
 <text
-           xml:space="preserve"
-           style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-           x="613.94196"
-           y="7733.3828"
-           id="text5899-5-9-5-0-9-3-2-6-7"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Bold'"
-             id="tspan5897-3-3-9-6-1-9-64-8-2"
-             x="613.94196"
-             y="7733.3828">WINNERS ANNOUNCED!</tspan></text>
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+   x="613.94196"
+   y="7733.3828"
+   id="text5899-5-9-5-0-9-3-2-6-7"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Bold'"
+     id="tspan5897-3-3-9-6-1-9-64-8-2"
+     x="613.94196"
+     y="7733.3828">WINNERS ANNOUNCED!</tspan></text>
+
+
 </g></g></g></svg>
